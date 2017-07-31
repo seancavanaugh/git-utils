@@ -1,0 +1,10 @@
+cd d:
+cd Code
+cd stock-trader
+alias mci="mvn clean install"
+alias gst="git status"
+alias msbr="mvn spring-boot:run"
+alias npmc="npm test -- --coverage"
+alias npmt="npm test"
+alias npms="npm start"
+alias npmi="npm install"
